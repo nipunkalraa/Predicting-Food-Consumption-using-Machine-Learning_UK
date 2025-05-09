@@ -30,7 +30,7 @@ Created binary outcome variable for red meat consumption (above/below average)
 ## Machine Learning Models:
 Logistic Regression: Baseline binary classification
 
-Random Forest: A More complex ensemble learning approach
+Random Forest: A more complex ensemble learning approach
 
 Used 80/20 train/test split with 10-fold cross-validation
 
