@@ -2,7 +2,8 @@
 This project uses machine learning techniques to predict whether individuals are likely to consume above-average amounts of red meat based on socio-demographic characteristics. The analysis helps identify key demographic factors that can inform targeted marketing strategies.
 
 ## Please check the 'Code_Predicting_Food_Consumption_using_ML.R' file for full reproducible code. The code has an extensive markdown to show what each function does.
-![ss_markdowns](https://github.com/user-attachments/assets/abd74be0-b2cd-4d69-86f6-9274d1fcea7c)
+![Screenshot (16)](https://github.com/user-attachments/assets/6941c4c9-ee3d-4952-bb53-452267535d83)
+
 
 ## 📊 Dataset
 Individual-level survey data containing:
